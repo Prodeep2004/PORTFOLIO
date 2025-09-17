@@ -90,4 +90,4 @@ Assets used in the project can be found [here](https://github.com/user-attachmen
 ---
 
 ## 📬 Contact Me
-[![LinkedIn](http://www.linkedin.com/in/pradeepkumarmeengar) 
+LinkedIn : http://www.linkedin.com/in/pradeepkumarmeengar
